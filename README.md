@@ -1,5 +1,4 @@
 # Titanic_Survival_Prediction
-# Titanic Survival Prediction 🚢
 
 This ML project predicts passenger survival using the famous Titanic dataset.
 
